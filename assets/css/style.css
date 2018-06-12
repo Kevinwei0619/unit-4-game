@@ -1,0 +1,79 @@
+body{
+ 
+    background-image:url("../images/light-grey-terrazzo.png");
+    color: brown;
+
+}
+
+#firstline, #ptage, #randomNumber, #totalScore, #scoreBoard{
+
+    border: 0px solid black;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+  }
+
+  #firstline{
+      background: yellow;
+  }
+
+  #ptage{
+    background: black;
+  }
+
+  #randomNumber{
+      background: green;
+      height: 150px;
+      width: 260px;
+      font-size: 30px;
+  }
+
+.winAndLooses{
+    background: aqua;
+    border: 0px solid black;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+
+
+#wins{
+    background: aqua;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#looses{
+    background: aqua;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
+#totalScore{
+    background: gray;
+    font-size: 25px;
+    width: 260px;
+}
+#scoreBoard{
+    background: gray;
+    height: 200px;
+    width: 260px;
+    font-size: 30px;
+    
+}
+
+
+
+
+img {
+    border-radius: 8px;
+    height: 150px;
+    width: 150px;
+    margin: 5px 5px;
+  }
+
+ 
+
+
